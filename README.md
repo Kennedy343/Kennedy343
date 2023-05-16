@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Kennedy343/Kennedy343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
